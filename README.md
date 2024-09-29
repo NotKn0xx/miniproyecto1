@@ -13,3 +13,8 @@ encender_patron(posicion_azul): Esta es la función principal del juego, encarga
 
 juego(): Esta es la función que contiene la lógica del juego. En ella se implementan los bucles for y while necesarios para su correcta ejecución. El juego inicia con la entrada manual de la cantidad de rondas y jugadores. Al finalizar, se muestra la tabla de puntuaciones y se anuncia al ganador.
 
+aqui listamos los videos de nuestro proyecto en uso
+
+https://youtu.be/7WSHcyi-2Mg
+
+https://youtube.com/shorts/Oi-R_xGfQys?feature=share
